@@ -45,8 +45,8 @@ def banner():
  __________________________________________________________
 
 ------------------------------------------------
-CloudBunny - Bypass WAF with Search Engines 
-Author: Eddy secdet / recurselinux
+WAFNUKE - Bypass WAF with Search Engines 
+Author:  secdet / recurselinux
 https://github.com/recurselinux \033[0m
     ''')
 
