@@ -6,7 +6,6 @@ from __future__ import print_function
 from bs4 import BeautifulSoup
 from urlparse import urlsplit
 from zoomeye_search import *
-from shodan_search import *
 from censys_search import *
 from random import choice
 import requests, cfscrape
